@@ -8,5 +8,4 @@ Other libraries used are tkinter for GUI and turtle for painting the HANGMAN...
 
 Some pictures from game:
 
-![GitHub Logo](/img/init screen.png)
-
+![Initial screen](/img/init%20screen.png)
