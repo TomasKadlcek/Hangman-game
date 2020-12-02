@@ -9,3 +9,6 @@ Other libraries used are tkinter for GUI and turtle for painting the HANGMAN...
 Some pictures from game:
 
 ![Initial screen](/img/init%20screen.png)
+![Initial screen](/img/guess.png)
+![Initial screen](/img/games.png)
+![Initial screen](/img/final.png)
