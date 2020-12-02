@@ -6,3 +6,7 @@ Hangman makes use of the [RandomWords library](https://github.com/vaibhavsingh97
 
 Other libraries used are tkinter for GUI and turtle for painting the HANGMAN...
 
+Some pictures from game:
+
+![GitHub Logo](/img/init screen.png)
+
